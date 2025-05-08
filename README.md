@@ -20,6 +20,6 @@
 
 ## 📊 GitHub Contribution
 
-![Snake di profil saya](https://raw.githubusercontent.com/username/username/main/snake.svg)
+![](github-contribution-grid-snake)
 
 
