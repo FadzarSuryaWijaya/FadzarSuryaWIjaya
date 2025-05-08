@@ -1,0 +1,21 @@
+name: Generate Snake
+on:
+  schedule:
+    - cron: '0 0 * * *'   # opsi: generate setiap hari tengah malam
+  workflow_dispatch:     # opsi: bisa dijalankan manual
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Snake SVG
+        uses: platane/snk@v3.3.0   # versi terbaru saat ini
+        with:
+          username: ${{ github.repository_owner }}
+          format: svg             # bisa juga 'gif'
+          output: snake.svg
+      - name: Commit Snake SVG
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: regenerate snake animation"
+          file_pattern: snake.svg
