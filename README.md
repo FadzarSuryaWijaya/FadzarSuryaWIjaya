@@ -16,10 +16,9 @@
     </a>
   </p>
 </div>
----
 
 ## 📊 GitHub Contribution
 
-![](github-contribution-grid-snake)
+![](github-contribution-grid-snake.svg)
 
 
