@@ -1,5 +1,3 @@
-![](github-contribution-grid-snake.svg)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FadzarSuryaWijaya/FadzarSuryaWijaya/output/github-contribution-grid-snake-dark.svg" />
