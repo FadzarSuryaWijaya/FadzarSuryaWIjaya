@@ -13,9 +13,8 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p align="center" >
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="48%" />
-</p>
+### ✍️ Dev Quote
+>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 📊 GitHub Stats
 
