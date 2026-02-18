@@ -14,7 +14,7 @@
 
 
 <p align="center" >
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="390" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="48%" />
 </p>
 
 ### 📊 GitHub Stats
