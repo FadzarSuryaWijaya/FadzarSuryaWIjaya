@@ -24,6 +24,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FadzarSuryaWijaya&theme=dark&hide_border=true" width="390" style="margin-right:20px;" />
+  <img src="https://dummyimage.com/20x1/000/000.png&text=" width="20"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=FadzarSuryaWijaya&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" width="390" />
 </p>
 
