@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 Currently learning at Pelita Bangsa University <br>🤖 Just an ordinary person who likes tech <br>🚀 Always exploring, always building
+🔭 Currently studying Information Technology at Pelita Bangsa University <br>🤖 Just an ordinary person who likes tech <br>🚀 Always exploring, always building
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FadzarSuryaWIjaya)
@@ -13,18 +13,15 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-
-### ✍️ Dev Quote
 <p align="center" >
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="390" />
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FadzarSuryaWijaya&theme=dark&hide_border=true"
-       width="350" hspace="20" />
+       width="350" hspace="10" />
   <img src="https://github-contributor-stats.vercel.app/api?username=FadzarSuryaWijaya&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true"
        width="290" />
 </p>
