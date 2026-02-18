@@ -24,6 +24,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FadzarSuryaWijaya&theme=dark&hide_border=true" width="390" style="padding:20px" />
+  &nbsp;
   <img src="https://github-contributor-stats.vercel.app/api?username=FadzarSuryaWijaya&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" width="390" />
 </p>
 
