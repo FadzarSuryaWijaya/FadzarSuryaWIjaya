@@ -23,7 +23,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center">
         <img src="https://streak-stats.demolab.com/?user=FadzarSuryaWijaya&theme=dark&hide_border=true" width="390"/>
