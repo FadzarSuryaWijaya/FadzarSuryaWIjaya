@@ -11,4 +11,5 @@
 
 <div align=center>
   <img width=390 src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FadzarSuryaWijaya&theme=dark&date_format=j%20M%5B%20Y%5D&background=50%2C0002FFE3%2C000000&dates=FFFFFF)](https://git.io/streak-stats)" />
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FadzarSuryaWijaya&theme=dark&date_format=j%20M%5B%20Y%5D&background=50%2C0002FFE3%2C000000&dates=FFFFFF)](https://git.io/streak-stats)
 </div>
