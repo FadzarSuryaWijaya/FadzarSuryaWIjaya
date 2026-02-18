@@ -1,15 +1,10 @@
 # 💫 About Me
-🔭 Currently learning at Pelita Bangsa University 
+🔭 Currently learning at Pelita Bangsa University <br>🤖 Just an ordinary person who likes tech <br>🚀 Always exploring, always building
 
----
 
-## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FadzarSuryaWIjaya)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadzar19@gmail.com)
 
----
-
-## 💻 Tech Stack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -17,34 +12,28 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://streak-stats.demolab.com/?user=FadzarSuryaWijaya&theme=dark&hide_border=true" width="48%" />
-</p>
----
 
-## ✍️ Dev Quote
+
+### ✍️ Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
----
+### 📊 GitHub Stats
 
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=FadzarSuryaWijaya&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=FadzarSuryaWijaya&icon=1&color=6" />
-</p>
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=FadzarSuryaWijaya&theme=dark&hide_border=true" width="390"/>
+      </td>
+      <td align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=FadzarSuryaWijaya&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" width="300"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🐍 Contribution Snake
 <p align="center">
