@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently learning in Pelita Bangsa University<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
@@ -10,6 +10,8 @@
 
 # 📊 GitHub Stats:
 <img width=390 src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FadzarSuryaWijaya&theme=dark&date_format=j%20M%5B%20Y%5D&background=50%2C0002FFE3%2C000000&dates=FFFFFF)](https://git.io/streak-stats)" />
+
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
