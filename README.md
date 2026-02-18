@@ -23,17 +23,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table style="border:none; border-collapse:collapse;">
     <tr>
-      <td align="center">
+      <td style="border:none;">
         <img src="https://streak-stats.demolab.com/?user=FadzarSuryaWijaya&theme=dark&hide_border=true" width="390"/>
       </td>
-      <td align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=FadzarSuryaWijaya&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" width="300"/>
+      <td style="border:none;">
+        <img src="https://github-contributor-stats.vercel.app/api?username=FadzarSuryaWijaya&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true&hide_border=true" width="300"/>
       </td>
     </tr>
   </table>
 </div>
+
 
 ## 🐍 Contribution Snake
 <p align="center">
