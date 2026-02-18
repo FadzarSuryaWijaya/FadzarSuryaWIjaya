@@ -20,9 +20,9 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=FadzarSuryaWijaya&theme=dark&hide_border=true"
-       width="350" hspace="10" />
+       width="490" hspace="10" />
   <img src="https://github-contributor-stats.vercel.app/api?username=FadzarSuryaWijaya&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true"
-       width="290" />
+       width="300" />
 </p>
 
 
