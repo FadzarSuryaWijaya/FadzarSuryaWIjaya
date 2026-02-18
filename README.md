@@ -16,13 +16,13 @@
 
 
 ### ✍️ Dev Quote
-<p align="center">
+<p align="center" >
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="center" gap="20px">
   <img src="https://streak-stats.demolab.com/?user=FadzarSuryaWijaya&theme=dark&hide_border=true" width="390" />
   <img src="https://github-contributor-stats.vercel.app/api?username=FadzarSuryaWijaya&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true" width="390" />
 </p>
